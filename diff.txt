@@ -1,0 +1,10 @@
+diff --git a/Menu.txt b/Menu.txt
+index 6c6cdb5..1242bd9 100644
+--- a/Menu.txt
++++ b/Menu.txt
+@@ -2,4 +2,3 @@
+ 	Salade Marocaine 
+ 	Filet de dinde 
+ 	Gâteau citronnelle 
+-	Gâteau citronnelle 
+\ No newline at end of file
